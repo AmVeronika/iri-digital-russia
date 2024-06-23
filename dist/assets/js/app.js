@@ -1,0 +1,2 @@
+(()=>{"use strict";setTimeout((()=>{const e=document.querySelector("body"),t=document.getElementById("preloader");t.classList.add("hide"),e.style.height="100%",e.style.overflowY="auto",setTimeout((()=>{t.style.opacity="0"}),400),setTimeout((()=>{t.remove()}),700)}),2500),(()=>{console.log("start project")})&&console.log("animate started")})();
+//# sourceMappingURL=app.js.map
