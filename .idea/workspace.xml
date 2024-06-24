@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbd6981b-7598-4fc4-b94c-448d29821383" name="Changes" comment="Add yandex metrika" />
+    <list default="true" id="dbd6981b-7598-4fc4-b94c-448d29821383" name="Changes" comment="Change yandex metrika">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +55,7 @@
       <workItem from="1719152952288" duration="585000" />
       <workItem from="1719227799438" duration="83000" />
       <workItem from="1719229262633" duration="633000" />
-      <workItem from="1719241650704" duration="639000" />
+      <workItem from="1719241650704" duration="1995000" />
     </task>
     <task id="LOCAL-00001" summary="Add dist">
       <option name="closed" value="true" />
@@ -95,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719241690366</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Change yandex metrika">
+      <option name="closed" value="true" />
+      <created>1719242484723</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719242484723</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +116,7 @@
     <MESSAGE value="Remove dist" />
     <MESSAGE value="Change dist" />
     <MESSAGE value="Add yandex metrika" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add yandex metrika" />
+    <MESSAGE value="Change yandex metrika" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change yandex metrika" />
   </component>
 </project>
