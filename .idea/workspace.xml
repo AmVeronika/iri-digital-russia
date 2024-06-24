@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbd6981b-7598-4fc4-b94c-448d29821383" name="Changes" comment="Change dist">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dbd6981b-7598-4fc4-b94c-448d29821383" name="Changes" comment="Add yandex metrika" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +53,7 @@
       <workItem from="1719152952288" duration="585000" />
       <workItem from="1719227799438" duration="83000" />
       <workItem from="1719229262633" duration="633000" />
+      <workItem from="1719241650704" duration="639000" />
     </task>
     <task id="LOCAL-00001" summary="Add dist">
       <option name="closed" value="true" />
@@ -88,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719229294706</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add yandex metrika">
+      <option name="closed" value="true" />
+      <created>1719241690366</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719241690366</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +105,7 @@
     <MESSAGE value="Add dist" />
     <MESSAGE value="Remove dist" />
     <MESSAGE value="Change dist" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change dist" />
+    <MESSAGE value="Add yandex metrika" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add yandex metrika" />
   </component>
 </project>
